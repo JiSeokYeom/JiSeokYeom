@@ -1,6 +1,9 @@
-<div align="cebter">## 공부하는 개발자 염지석 입니다!
+<div align="center">
+  
+## 공부하는 개발자 염지석 입니다!
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJiSeokYeom&count_bg=%23AFC44D&title_bg=%2396AAF5&icon=waze.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
 </div>
 <!--
 **JiSeokYeom/JiSeokYeom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
