@@ -1,9 +1,11 @@
 <div align="center">
   
 ## 🤗Hello, I'm developer Yeom Ji Seok who likes to challenge.
+## 안녕하세요 도전을 좋아하는 개발자 염지석 입니다.
   </div>
   
 ### mainly developing Android.
+### 저는 안드로이드 개발을 주로 하고 있습니다.
 
 ## 🖥 Skills
 ### Platforms & Languages & Tools
