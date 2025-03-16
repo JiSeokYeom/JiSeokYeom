@@ -18,6 +18,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiSeokYeom)](https://github.com/JiSeokYeom/github-readme-stats)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJiSeokYeom&count_bg=%23AFC44D&title_bg=%2396AAF5&icon=waze.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=ygs01033&show_icons=true&theme=gotham&hide="/>
 
 <a href="https://github.com/devxb/gitanimals">
 <img
